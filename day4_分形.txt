@@ -1,0 +1,62 @@
+分形是一种几何图形，它的构成跟它本身一个样。。看例子就好
+
+输入：
+分形的大小n
+输出：
+分形图案
+
+样例输入1：
+1
+样例输出
+x
+
+样例输入2：
+2
+样例输出
+x x
+ x
+x x
+
+样例输入3
+3
+样例输出
+x x   x x
+ x     x
+x x   x x
+   x x
+    x
+   x x
+x x   x x
+ x     x
+x x   x x
+
+样例输入4
+4
+样例输出
+x x   x x         x x   x x
+ x     x           x     x
+x x   x x         x x   x x
+   x x               x x
+    x                 x
+   x x               x x
+x x   x x         x x   x x
+ x     x           x     x
+x x   x x         x x   x x
+         x x   x x
+          x     x
+         x x   x x
+            x x
+             x
+            x x
+         x x   x x
+          x     x
+         x x   x x
+x x   x x         x x   x x
+ x     x           x     x
+x x   x x         x x   x x
+   x x               x x
+    x                 x
+   x x               x x
+x x   x x         x x   x x
+ x     x           x     x
+x x   x x         x x   x x
